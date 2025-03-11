@@ -1,0 +1,1 @@
+En este proyecto se realizo un juego en el que se agrega a un arreglo algunos amigos que despues seran sorteado de manera aleatorio para que slaga un amigo elegido, esto se llevo a cabo mediante distintaas funciones y con la utilizacioon de creacion de elementos desde js
